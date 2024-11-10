@@ -1,0 +1,9 @@
+python-telegram-bot>=20.0
+requests
+openai
+google-api-python-client
+google-auth
+google-auth-oauthlib
+python-dotenv
+pydub
+whisper

@@ -1,0 +1,252 @@
+{
+    "format": "2.9",
+    "job": {
+        "created_at": "2024-10-15T12:05:09.844Z",
+        "data_name": "voice.ogg",
+        "duration": 60,
+        "id": "zggj21gpxp"
+    },
+    "metadata": {
+        "created_at": "2024-10-15T12:05:27.134407Z",
+        "language_pack_info": {
+            "adapted": "False",
+            "itn": "False",
+            "language_description": "Persian",
+            "word_delimiter": " ",
+            "writing_direction": "right-to-left"
+        },
+        "transcription_config": {
+            "diarization": "none",
+            "language": "fa"
+        },
+        "type": "transcription"
+    },
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.85,
+                    "content": "آی",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 2.97,
+            "start_time": 2.73,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.94,
+                    "content": "نیل",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 4.23,
+            "start_time": 3.81,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 1.0,
+                    "content": "دیزاین",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 4.56,
+            "start_time": 4.23,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.55,
+                    "content": "تاپ",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 4.98,
+            "start_time": 4.71,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.98,
+                    "content": "همان",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 5.28,
+            "start_time": 4.98,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.86,
+                    "content": "ابتدای",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 6.18,
+            "start_time": 5.58,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.92,
+                    "content": "چیز",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 6.54,
+            "start_time": 6.18,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 1.0,
+                    "content": "گرفته",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 7.38,
+            "start_time": 6.96,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 1.0,
+                    "content": "شده",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 7.68,
+            "start_time": 7.38,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 1.0,
+                    "content": "بود",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 7.86,
+            "start_time": 7.68,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 1.0,
+                    "content": "ولی",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 8.76,
+            "start_time": 8.49,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.99,
+                    "content": "ببین",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 9.06,
+            "start_time": 8.76,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 1.0,
+                    "content": "!",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "attaches_to": "previous",
+            "end_time": 9.06,
+            "is_eos": "True",
+            "start_time": 9.06,
+            "type": "punctuation"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.63,
+                    "content": "اوج",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 11.67,
+            "start_time": 11.4,
+            "type": "word"
+        },
+
+        {
+            "alternatives": [
+                {
+                    "confidence": 1.0,
+                    "content": "خودش",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 58.5,
+            "start_time": 58.23,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 1.0,
+                    "content": "پرفکت",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "end_time": 59.19,
+            "start_time": 58.5,
+            "type": "word"
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 1.0,
+                    "content": ".",
+                    "language": "fa",
+                    "speaker": "UU"
+                }
+            ],
+            "attaches_to": "previous",
+            "end_time": 59.19,
+            "is_eos": "True",
+            "start_time": 59.19,
+            "type": "punctuation"
+        }
+    ]
+}
